@@ -5,6 +5,7 @@ import java.util.*;
 public class Java_pr {
 
 #function to find second largest number in array
+
 	public static void second_largest_index() {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("enter the number of items");
